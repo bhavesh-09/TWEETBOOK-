@@ -1,5 +1,5 @@
 # Setup
-1)Git Clone the project with: git clone https://github.com/redianmarku/Django-Twitter-Clone.git.
+1)Git Clone the project with: git clone https://github.com/Wanderer09/TWEETBOOK-.git
 
 2)Move to the base directory: cd TWEETBOOK
 
